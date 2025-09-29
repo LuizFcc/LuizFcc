@@ -15,3 +15,5 @@ Eu no momento sou tradutor para Português do Brasil do servidor Luanti [[Miniga
 </a>
 
 Se você sabe um idioma e quiser contribuir para o servidor, [clique aqui](https://translate.codeberg.org/projects/zughy-friends-minetest)!
+
+Mais uma coisa... o servidor está atualmente recebendo € 1,79 por semana e precisa da ajuda para antigir a meta de **€ 2,50** por semana. [Clique Aqui](https://www.liberapay.com/aes_luanti_server/donate) para pode doar uma quantia e ajudar nessa meta!
