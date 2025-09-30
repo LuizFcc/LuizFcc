@@ -8,7 +8,7 @@ Eu estou neste momento aprendendo Lua e Java. Não sou muito bem em design gráf
 ## ✉️ Cargos que eu tenho
 ### 🇧🇷 Tradutor pt-BR para A.E.S
 
-Eu no momento sou tradutor para Português do Brasil do servidor Luanti [[Minigames] A.E.S](https://www.aes.land). Aqui está minha visualização em tempo real:
+Eu sou tradutor para Português do Brasil do servidor Luanti [[Minigames] A.E.S](https://www.aes.land). Aqui está minha visualização em tempo real:
 
 <a href="https://translate.codeberg.org/engage/zughy-friends-minetest/">
 <img src="https://translate.codeberg.org/widget/zughy-friends-minetest/-/pt-BR/multi-auto.svg" alt="Status da tradução" />
