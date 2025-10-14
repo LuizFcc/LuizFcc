@@ -9,6 +9,8 @@ Eu estou neste momento aprendendo Lua e Java. Não sou muito bem em design gráf
 Em todas essas plataformas:
 
 * [GitLab](https://gitlab.com/LuizFcc);
+* [Planet Minecraft](https://planetminecraft.com/member/LuizFcc)
+* [CurseForge](https://curseforge.com/members/LuizFcc)
 * [Codeberg Translate (IamnotMinetest)](https//translate.codeberg.com/user/LuizFcc);
 
 ## ✉️ Cargos que eu tenho
