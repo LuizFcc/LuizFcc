@@ -24,4 +24,12 @@ Eu sou tradutor para Português do Brasil do servidor Luanti [[Minigames] A.E.S]
 
 Se você sabe um idioma e quiser contribuir para o servidor, [clique aqui](https://translate.codeberg.org/projects/zughy-friends-minetest)!
 
-Mais uma coisa... o servidor está atualmente recebendo € 1,79 por semana e precisa da ajuda para antigir a meta de **€ 2,50** por semana. [Clique aqui](https://liberapay.com/aes_luanti_server/donate?currency=BRL) para pode doar uma quantia e ajudar nessa meta!
+Mais uma coisa... o servidor está atualmente recebendo:
+
+![A.E.S's Liberapay receiving](https://img.shields.io/liberapay/receives/aes_luanti_server)
+**de**
+![A.E.S's Liberapay patrons](https://img.shields.io/liberapay/patrons/aes_luanti_server)
+
+e por isso precisa da sua ajuda pra chegar na meta de **€ 2,50** por semana. Aqui está o progresso:
+
+![A.E.S's Liberapay goal progress](https://img.shields.io/liberapay/goal/aes_luanti_server)
