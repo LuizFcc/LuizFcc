@@ -3,7 +3,7 @@ Eu sou LuizFcc, mas pode me chamar de Luiz Felipe. Eu sou um desenvolvedor de mo
 
 Meus mods e plugins para Minecraft estão no nome de [Sakura](https://github.com/Sakura-Mods).
 
-Eu estou neste momento aprendendo Lua e Java. Não sou muito bem em design gráfico mas tento fazer o melhor! :)
+Eu estou neste momento aprendendo Lua e Kotlin. Não sou muito bem em design gráfico mas tento fazer o melhor! :)
 
 ## 🔍 Onde você pode me encontrar?
 Em todas essas plataformas:
