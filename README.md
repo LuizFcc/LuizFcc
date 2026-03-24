@@ -1,35 +1,23 @@
-## 👋 Opa! Beleza?
-Eu sou LuizFcc, mas pode me chamar de Luiz Felipe. Eu sou um desenvolvedor de mods para Luanti e de clients para Minecraft.
+## 👋 Olá! Por que estás aqui?
+Talvez você não esteja sabendo, mas... eu **mudei** pro **GitLab**!
 
-Meus mods e plugins para Minecraft estão no nome de [Sakura](https://gitlab.com/Sakura-Mods).
+## Mas... por quê?
+De acordo com o [Please don't upload my code to GitHub](https://nogithub.codeberg.page), a principal preocupação está no __GitHub Copilot__.
 
-Eu estou tentando aprender Kotlin. Não sou muito bem em design gráfico mas tento fazer o melhor! :)
+De acordo com o próprio GitHub:
 
-## 🔍 Onde você pode me encontrar?
-Em todas essas plataformas:
+> *"GitHub Copilot é uma IA que ajuda você a escrever código mais rápido e com menos trabalho. Ela pega contexto de comentários e código para sugerir ao individual linhas e funções inteiras instantaneamente."*
 
-* [GitLab](https://gitlab.com/LuizFcc);
-* [Planet Minecraft](https://planetminecraft.com/member/LuizFcc)
-* [CurseForge](https://curseforge.com/members/LuizFcc)
-* [Codeberg Translate (IamnotMinetest)](https//translate.codeberg.com/user/LuizFcc);
+__Mas__... a gente sabe que LLMs (as tal chamadas IAs) precisam ser treinadas em datasets __*ENORMES*__ para conseguir fazer o seu trabalho. Neste caso, o Copilot aprende escaneando repositórios do GitHub.
 
-## ✉️ Cargos que eu tenho
-### 🇧🇷 Tradutor pt-BR para A.E.S
+O outro problema é que esses *"códigos públicos"* as vezes não são dedicados para o uso público. O projeto pode possivelmente ser licenciado no [GPL](https://gnu.org/licenses/licenses.pt-br.html), que é bem estrito porque precisa que o projeto derivado (não limitado a forks/spoons) seja redistribuído na mesma licença que o original.
 
-Eu sou tradutor para Português do Brasil do servidor Luanti [[Minigames] A.E.S](https://aes.land). Aqui está minha visualização em tempo real:
+## E qual é o problema? O Copilot não pode ajudar?
+Na minha opinião, sim. Pode, mas não pode ser em um ponto onde a IA simplesmente te sugere linhas de código sem dar um aviso ou créditos ao criador original.
 
-<a href="https://translate.codeberg.org/engage/zughy-friends-minetest/">
-<img src="https://translate.codeberg.org/widget/zughy-friends-minetest/-/pt-BR/multi-auto.svg" alt="Status da tradução" />
-</a>
+Isso é indefensável pela parte da Microsoft de simplesmente não treinar o Copilot pra ver se o repositório tem uma licença ou não.
 
-Se você sabe um idioma e quiser contribuir para o servidor, [clique aqui](https://translate.codeberg.org/projects/zughy-friends-minetest)!
+### Uma nota final
+Isso __não__ é um documento legal ou uma crítica direta a Microsoft. Eu só digitei isso para poder espalhar o que a Microsoft está fazendo (que na minha visão é ILEGAL) para todo mundo.
 
-Mais uma coisa... o servidor está atualmente recebendo:
-
-![A.E.S's Liberapay receiving](https://img.shields.io/liberapay/receives/aes_luanti_server)
-**de**
-![A.E.S's Liberapay patrons](https://img.shields.io/liberapay/patrons/aes_luanti_server)
-
-e por isso precisa da sua ajuda pra chegar na meta de **€ 2,50** por semana. Aqui está o progresso:
-
-![A.E.S's Liberapay goal progress](https://img.shields.io/liberapay/goal/aes_luanti_server)
+[Meu GitLab](https://gitlab.com/LuizFcc)
