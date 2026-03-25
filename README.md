@@ -29,6 +29,4 @@ __Provas__:
 [Termos de Uso Aceitável do GitHub](https://docs.github.com/pt/site-policy/github-terms/github-terms-of-service#c-acceptable-use)
 
 ### Minhas novas residências
-[Meu GitLab (LuizFcc)](https://gitlab.com/LuizFcc)
-
-[Meu Codeberg (IamnotMinetest/LuizFcc)](https://codeberg.org/LuizFcc)
+[Meu Codeberg Translate (IamnotMinetest)](https://translate.codeberg.org/user/LuizFcc)
