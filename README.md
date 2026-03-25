@@ -20,4 +20,10 @@ Isso é indefensável pela parte da Microsoft de simplesmente não treinar o Cop
 ### Uma nota final
 Isso __não__ é um documento legal ou uma crítica direta a Microsoft. Eu só digitei isso para poder espalhar o que a Microsoft está fazendo (que na minha visão é ILEGAL) para todo mundo.
 
-[Meu GitLab](https://gitlab.com/LuizFcc)
+__Provas__:
+[Termos de Serviço do Github](https://docs.github.com/pt/site-policy/github-terms/github-terms-of-service)
+[Política de Privacidade do GitHub](https://docs.github.com/pt/site-policy/privacy-policies)
+[Termos de Uso Aceitável do GitHub](https://docs.github.com/pt/site-policy/github-terms/github-terms-of-service#c-acceptable-use)
+
+[Meu GitLab (LuizFcc)](https://gitlab.com/LuizFcc)
+[Meu Codeberg (IamnotMinetest/LuizFcc)](https://codeberg.org/LuizFcc)
